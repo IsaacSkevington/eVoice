@@ -3,3 +3,4 @@ port=3306
 username=eVoice
 password=latymerevoice
 database=evoice
+version=1
