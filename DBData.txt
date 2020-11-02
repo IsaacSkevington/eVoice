@@ -1,0 +1,6 @@
+host=evoice.cermmtd1vgvf.eu-west-2.rds.amazonaws.com
+port=3306
+username=eVoice
+password=latymerevoice
+database=evoice
+version=3
