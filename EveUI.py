@@ -691,11 +691,10 @@ def start():
                 "Offline mode added, bugs fixed")
         PopupWindow(startUI, text, entryBoxNeeded=False)
 
-    #A little easter egg - the licking it is reference to a licking sciences joke - code doesn't work,
-    #so it's worth trying to lick it, cause nothing else works :)
+    #A little easter egg :)
     def easterEggI():
         """Isaac's Easter egg :)"""
-        text = "Turns out licking it does work! Happy coding \"y'all\" ~ I\n"
+        text = "Hot cross bun time ~ I\n"
         PopupWindow(startUI, text, entryBoxNeeded=False)
 
     #Binding Keys to above functions    
