@@ -8,7 +8,7 @@ echo Please check that they are as detailed below:
 echo Please make sure that python and pip are installed and both on path
 echo Please make sure the EveUI.spec and the EveUI.py file are both in this directory
 echo Please make sure the image files required are placed in a subdirectory named e-Voice and the icon in this directory
-echo The code will not be signed. To sign to code, generate a certificate or send the executable to y14isske@latymer.co.uk to be signed
+echo The code will not be signed. To sign to code, generate a certificate or send the executable to os3help@gmail.com to be signed
 timeout /t 20
 echo Starting build
 echo Installing requirements
